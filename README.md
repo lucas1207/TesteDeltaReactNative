@@ -11,7 +11,11 @@ Como rodar o aplicativo:
 4. Instalar o aplicativo Expo Go no celular
 5. Rodar o comando expo start na pasta do projeto
 6. Ler o qrcode com o aplicativo Expo Go ( ou com a câmera do celular se for um Iphone)
+
+
 PS: Talvez seja necessário alterar para Tunel dentro da pagina da expo conforme a imagem abaixo.
+
+
 ![Capturar](https://user-images.githubusercontent.com/47782435/129942367-3a5e6664-e7d5-4844-9603-6531fc31e852.PNG)
 
 
