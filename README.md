@@ -13,7 +13,7 @@ Como rodar o aplicativo:
 6. Ler o qrcode com o aplicativo Expo Go ( ou com a câmera do celular se for um Iphone)
 
 
-PS: Talvez seja necessário alterar para Tunel dentro da pagina da expo conforme a imagem abaixo.
+( Talvez seja necessário alterar para Tunel dentro da pagina da expo conforme a imagem abaixo. )
 
 
 ![Capturar](https://user-images.githubusercontent.com/47782435/129942367-3a5e6664-e7d5-4844-9603-6531fc31e852.PNG)
